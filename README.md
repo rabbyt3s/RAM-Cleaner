@@ -1,6 +1,6 @@
 # PyRAMCleaner
 
-![PyRAMCleaner Logo](resources/icon.png)
+![PyRAMCleaner Logo](icon.png)
 
 PyRAMCleaner is a powerful, user-friendly RAM optimization tool designed to enhance your system's performance by efficiently managing memory usage.
 
