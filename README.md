@@ -20,6 +20,8 @@ PyRAMCleaner optimizes your system's RAM usage through several methods:
 
 5. **Automated Cleaning**: It can automatically initiate cleaning when RAM usage exceeds a user-defined threshold.
 
+![image](https://github.com/th3k3y/RAM-Cleaner/assets/49789253/8ff278d2-6ac6-4a2b-8a84-88ed1d9f0f10)
+
 ## Antivirus Concerns
 
 PyRAMCleaner may be flagged by some antivirus software as potentially unwanted. This is a false positive due to the following reasons:
